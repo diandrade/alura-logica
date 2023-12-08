@@ -1,6 +1,6 @@
 # alura-logica
 
-Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**
+Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**.
 
 - Laços de Repetição
 
