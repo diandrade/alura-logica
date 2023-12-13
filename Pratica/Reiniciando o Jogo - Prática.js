@@ -21,18 +21,30 @@ function dolar(x) {
 
 console.log(dolar(2));
 
-function retangulo(h,b){
-
-  let area = h*b;
-  let perimetro = 2*(b+h);
+function retangulo(h, b) {
+  let area = h * b;
+  let perimetro = 2 * (b + h);
 
   console.log(`Área: ${area}, Perimetro: ${perimetro}`);
 }
 
-retangulo(2,3);
+retangulo(2, 3);
 
+function circulo(r) {
+  let c = 2 * 3.14 * r;
+  let a = 3.14 * (r * r);
 
+  console.log(`Área: ${a}, Perimetro: ${c}`);
+}
 
+circulo(15);
 
+function tabuada(x) {
+  for (let i = 1; i <= 10; i++) {
+    y = x * i;
 
+    console.log(y);
+  }
+}
 
+tabuada(2);
