@@ -14,6 +14,7 @@ Criação de desafio do número secreto, composto por interface gráfica previam
 
 https://alura-logica-a6ta.vercel.app/
 
-![image](https://github.com/diandrade/alura-logica/assets/81432715/58e89279-78ae-45fd-ab76-f466eee8dd3b)
+![Uploading image.png…]()
+
 
 
