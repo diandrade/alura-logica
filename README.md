@@ -1,20 +1,15 @@
-# alura-logica
+# Alura Logic
 
-Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**.
+A series of projects aimed at teaching programming logic using **JavaScript**.
 
-- Laços de Repetição
-
+### Key Concepts Covered:
+- Loops
 - Arrays
-
 - Functions
+- Variables
 
-- Variáveis
+This project implements a secret number guessing game, featuring a graphical user interface (UI) provided beforehand, and logic development through video lessons covering the topics listed above.
 
-Criação de desafio do número secreto, composto por interface gráfica previamente disponibilizada, e desenvolvimento lógico durante as videoaulas, com os conteúdos acima.
+[View the project](https://alura-logica-a6ta.vercel.app/)
 
-https://alura-logica-a6ta.vercel.app/
-
-![image](https://github.com/diandrade/alura-logica/assets/81432715/c34f2248-6c4b-4272-b17e-76a26efa6b7b)
-
-
-
+![Alura Logic Screenshot](https://github.com/diandrade/alura-logica/assets/81432715/c34f2248-6c4b-4272-b17e-76a26efa6b7b)
